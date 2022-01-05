@@ -1,0 +1,30 @@
+{
+  "clientes": [
+    {
+      "nombre": "Luis Actualizado!",
+      "empresa": "Amazon",
+      "email": "lrangarita7@gmail.com",
+      "telefono": "1131241",
+      "notas": "Recomendaciones de otro cliente.",
+      "id": 1
+    },
+    {
+      "nombre": "Camila",
+      "empresa": "Camila´s Bakery",
+      "email": "Bakecami@gmail.com",
+      "telefono": "111121231",
+      "notas": "Necesito sus servicios.",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
